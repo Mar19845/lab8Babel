@@ -1,0 +1,37 @@
+$body-color: rgb(130,130,117);
+$color: white;
+body{
+    background: $body-color;
+    
+}
+
+div{
+    margin: auto;
+    width: 50%;
+    border: 3px solid null;
+    padding: 10px;
+
+    font-size: 15px;
+    font-family: "Lucida Console", "Courier New", monospace;
+    color: $color;
+}
+p{
+    color: $color;
+}
+a{
+    color: $color;
+}
+
+footer{
+    text-align: center;
+    background: $body-color;
+    
+}
+
+b{
+    text-align:center;
+    font-style: italic;
+    font-size: 50px;
+    color: $color;
+}
+  
