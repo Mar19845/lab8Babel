@@ -1,5 +1,6 @@
 import BarrowPic from '../Imagenes/Barrow.png';
 import '../Css/Barrow.scss';
+import "core-js/stable";
 
 const body = document.body;
 const br = document.createElement('br');

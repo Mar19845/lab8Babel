@@ -1,4 +1,5 @@
 //import "inicio.css";
+import "core-js/stable";
 import '../Css/inicio.scss';
 const body = document.body;
 ////////////////////////////////

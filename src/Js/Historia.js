@@ -1,4 +1,5 @@
 import '../Css/Historia.scss';
+import "core-js/stable";
 
 const body = document.body;
 const br = document.createElement('br');

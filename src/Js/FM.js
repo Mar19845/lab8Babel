@@ -1,5 +1,6 @@
 import '../Css/FM.scss';
 import FMpic from "../Imagenes/FM.jpg";
+import "core-js/stable";
 
 const body = document.body;
 const br = document.createElement('br');
